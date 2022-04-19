@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on c and c++ projects
 - 📫 How to reach me with my email: payback2crashes@gmail.com
+- If You Want, Join This Awesome Coding Community: https://discord.gg/Gx3JsmxCpn
 
 <!---
 itsmepayback/itsmepayback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
